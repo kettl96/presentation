@@ -6,10 +6,10 @@ i want to tell you why React is so popular
 
 <b>BUT FIRST WHAT IS REACT JS</b>
 
-React is a popular open-source JavaScript library used to create robust and dynamic user interfaces for web applications. Created by Facebook, React excels in these three areas:
--Being declarative and making it ‘painless’ to develop interactive User Interfaces (UIs)
+React is a popular open-source JavaScript library used to create robust and dynamic user interfaces for web applications. Created by Facebook, React excels in these three areas:<br>
+-Being declarative and making it ‘painless’ to develop interactive User Interfaces (UIs)<br>
 -Being Component-Based: React Builds encapsulate components that manage their own states then composes them to make intricate UIs; delivering top rendering performance.
--Being unobtrusive so you can write new features in React without reformulating existing code.
+-Being unobtrusive so you can write new features in React without reformulating existing code.<br>
 Despite existing for only nine years, React has become the big hitter in front-end development and shows no signs of slowing down.
 
 AND FIRST REASON IS...
